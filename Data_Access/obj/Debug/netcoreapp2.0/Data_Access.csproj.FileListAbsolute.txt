@@ -1,0 +1,9 @@
+C:\Users\CAMILA VERGARA\source\repos\Api_Nexos\Data_Access\bin\Debug\netcoreapp2.0\Data_Access.deps.json
+C:\Users\CAMILA VERGARA\source\repos\Api_Nexos\Data_Access\bin\Debug\netcoreapp2.0\Data_Access.dll
+C:\Users\CAMILA VERGARA\source\repos\Api_Nexos\Data_Access\bin\Debug\netcoreapp2.0\Data_Access.pdb
+C:\Users\CAMILA VERGARA\source\repos\Api_Nexos\Data_Access\obj\Debug\netcoreapp2.0\Data_Access.csproj.CoreCompileInputs.cache
+C:\Users\CAMILA VERGARA\source\repos\Api_Nexos\Data_Access\obj\Debug\netcoreapp2.0\Data_Access.AssemblyInfoInputs.cache
+C:\Users\CAMILA VERGARA\source\repos\Api_Nexos\Data_Access\obj\Debug\netcoreapp2.0\Data_Access.AssemblyInfo.cs
+C:\Users\CAMILA VERGARA\source\repos\Api_Nexos\Data_Access\obj\Debug\netcoreapp2.0\Data_Access.dll
+C:\Users\CAMILA VERGARA\source\repos\Api_Nexos\Data_Access\obj\Debug\netcoreapp2.0\Data_Access.pdb
+C:\Users\CAMILA VERGARA\source\repos\Api_Nexos\Data_Access\obj\Debug\netcoreapp2.0\Data_Access.csprojAssemblyReference.cache
